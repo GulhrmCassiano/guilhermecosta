@@ -1,0 +1,12 @@
+# Meu Perfil 
+
+## Sou Guilherme 
+
+- Brasileiro
+- Estudante do curso de "Programação com Java e C#
+- Natural de São Gonçalo
+
+## Meu Objetivos 
+
+- Dominar a logica de programação
+- ficar rico
