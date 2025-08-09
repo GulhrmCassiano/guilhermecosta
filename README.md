@@ -10,3 +10,9 @@
 
 - Dominar a logica de programação
 - ficar rico
+
+## Minha Experiencia
+- estudande de TI
+- criador de jogos no roblox studio
+- esperiencia basica em HTML
+- esperiencia em montagem de PC
