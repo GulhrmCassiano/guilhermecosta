@@ -14,5 +14,5 @@
 ## Minha Experiencia
 - estudande de TI
 - criador de jogos no roblox studio
-- esperiencia basica em HTML
-- esperiencia em montagem de PC
+- experiencia basica em HTML
+- experiencia em montagem de PC
