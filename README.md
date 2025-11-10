@@ -8,18 +8,16 @@
 
 ## Meu Objetivos 
 
-- Dominar a logica de programação
-- ficar rico
+- me tornar um bom profissional na área de TI
+- conquistar uma carreira na área de programação
 
 ## Minha Experiencia
 
 - estudande de TI
-- criador de jogos no roblox studio
 - experiencia basica em HTML
 - experiencia em montagem de PC
+- criador de jogos no roblox studio
 
-## Meus projetos 
-
-- Aqui estão alguns dos meus projetos e exercícios desenvolvidos ao logo0 do  curso:
-
-🚀 Projeto 1 - Em desenvolvimento...
+## Meus Progetos
+- aqui no meu github você pode ver algumas das minhas habilidades
+- e tambem alguns projetos 
